@@ -1,7 +1,6 @@
 start=int(input("Enter start value:"))
-end=int(input("Enter end value:"))
 primes=[]
-for i in range(start,end+1):
+for i in range(start+1):
     flag=0
     if i<2:
        continue
