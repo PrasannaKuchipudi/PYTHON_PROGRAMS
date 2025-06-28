@@ -12,5 +12,3 @@ gcd=find_gcd(numerator,denominator)
 simplified_num=numerator//gcd
 simplified_den=denominator//gcd
 print(f"The simplified sum of the fraction is:{simplified_num}/{simplified_den}")
-
-    
